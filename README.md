@@ -68,19 +68,20 @@ Veja como:
 1. Instale o Expo globalmente (se ainda não tiver):
 
 bash
-npm install -g expo-cli
+> npm install -g expo-cli
+
 Navegue até o projeto desejado:
 
 bash
 Copiar
 Editar
-cd nome-do-projeto
-Inicie a aplicação:
+> cd nome-do-projeto
 
+Inicie a aplicação:
 bash
 Copiar
 Editar
-npx expo start
+> npx expo start
 Escaneie o QR code com o aplicativo Expo Go no seu celular.
 
 ## 📚 Aprendizados
